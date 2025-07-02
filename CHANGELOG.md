@@ -1,0 +1,1 @@
+- **2025-07-02 19:11:43**: fix: resolve floating point conversion precision issue
