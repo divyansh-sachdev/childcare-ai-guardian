@@ -1,2 +1,3 @@
 - **2025-07-02 19:11:43**: fix: resolve floating point conversion precision issue
 - **2025-07-06 19:39:12**: feat: add dynamic threshold adaptation for environmental drift
+- **2025-07-11 20:31:46**: feat: add visual status LED pulse code for diagnostic mode
