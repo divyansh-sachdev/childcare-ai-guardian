@@ -2,3 +2,4 @@
 - **2025-07-06 19:39:12**: feat: add dynamic threshold adaptation for environmental drift
 - **2025-07-11 20:31:46**: feat: add visual status LED pulse code for diagnostic mode
 - **2025-07-13 11:44:34**: docs: add circuit wiring pinout and power consumption profile
+- **2025-07-14 19:42:19**: docs: add circuit wiring pinout and power consumption profile
