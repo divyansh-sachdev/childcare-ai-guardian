@@ -3,3 +3,4 @@
 - **2025-07-11 20:31:46**: feat: add visual status LED pulse code for diagnostic mode
 - **2025-07-13 11:44:34**: docs: add circuit wiring pinout and power consumption profile
 - **2025-07-14 19:42:19**: docs: add circuit wiring pinout and power consumption profile
+- **2025-07-15 10:34:28**: perf: optimize memory footprint by reducing ring buffer depth
