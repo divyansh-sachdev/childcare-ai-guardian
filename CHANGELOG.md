@@ -4,3 +4,4 @@
 - **2025-07-13 11:44:34**: docs: add circuit wiring pinout and power consumption profile
 - **2025-07-14 19:42:19**: docs: add circuit wiring pinout and power consumption profile
 - **2025-07-15 10:34:28**: perf: optimize memory footprint by reducing ring buffer depth
+- **2025-07-15 20:15:14**: fix: handle edge case timeout in sensor initialization loop
