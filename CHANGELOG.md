@@ -6,3 +6,4 @@
 - **2025-07-15 10:34:28**: perf: optimize memory footprint by reducing ring buffer depth
 - **2025-07-15 20:15:14**: fix: handle edge case timeout in sensor initialization loop
 - **2025-07-18 16:05:46**: refactor: modularize signal processing functions into separate header
+- **2025-07-18 16:49:28**: feat: add visual status LED pulse code for diagnostic mode
