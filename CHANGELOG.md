@@ -9,3 +9,4 @@
 - **2025-07-18 16:49:28**: feat: add visual status LED pulse code for diagnostic mode
 - **2025-07-23 15:45:22**: refactor: simplify state machine transition logic
 - **2025-07-24 10:24:38**: fix: handle edge case timeout in sensor initialization loop
+- **2025-07-25 16:25:36**: docs: clarify licensing and hardware bill of materials
