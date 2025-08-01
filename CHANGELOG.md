@@ -11,3 +11,4 @@
 - **2025-07-24 10:24:38**: fix: handle edge case timeout in sensor initialization loop
 - **2025-07-25 16:25:36**: docs: clarify licensing and hardware bill of materials
 - **2025-07-29 14:53:24**: refactor: modularize signal processing functions into separate header
+- **2025-08-01 17:48:26**: docs: update README setup instructions and dependencies
