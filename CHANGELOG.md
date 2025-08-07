@@ -14,3 +14,4 @@
 - **2025-08-01 17:48:26**: docs: update README setup instructions and dependencies
 - **2025-08-05 18:12:18**: feat: add hardware failsafe watchdog timer routine
 - **2025-08-06 16:36:17**: feat: implement moving average filter for noise suppression
+- **2025-08-07 17:47:44**: docs: add circuit wiring pinout and power consumption profile
