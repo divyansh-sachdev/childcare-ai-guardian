@@ -17,3 +17,4 @@
 - **2025-08-07 17:47:44**: docs: add circuit wiring pinout and power consumption profile
 - **2025-08-11 10:49:33**: refactor: optimize ADC sampling window and reduce jitter
 - **2025-08-11 15:33:38**: fix: resolve floating point conversion precision issue
+- **2025-08-15 21:06:13**: fix: calibrate baseline sensor offset against reference multimeter
