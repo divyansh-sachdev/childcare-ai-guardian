@@ -20,3 +20,4 @@
 - **2025-08-15 21:06:13**: fix: calibrate baseline sensor offset against reference multimeter
 - **2025-08-17 21:18:14**: feat: add hardware failsafe watchdog timer routine
 - **2025-08-19 10:22:19**: perf: optimize memory footprint by reducing ring buffer depth
+- **2025-08-21 11:47:11**: feat: implement moving average filter for noise suppression
