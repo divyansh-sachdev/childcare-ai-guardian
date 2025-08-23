@@ -22,3 +22,4 @@
 - **2025-08-19 10:22:19**: perf: optimize memory footprint by reducing ring buffer depth
 - **2025-08-21 11:47:11**: feat: implement moving average filter for noise suppression
 - **2025-08-22 10:16:26**: fix: handle edge case timeout in sensor initialization loop
+- **2025-08-23 11:35:38**: docs: add circuit wiring pinout and power consumption profile
