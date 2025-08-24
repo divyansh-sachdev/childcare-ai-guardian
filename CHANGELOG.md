@@ -26,3 +26,4 @@
 - **2025-08-23 18:38:17**: test: verify timer interrupt latency under heavy load
 - **2025-08-24 10:08:40**: test: benchmark inference execution speed on ESP32 dual-core
 - **2025-08-24 15:44:12**: fix: calibrate baseline sensor offset against reference multimeter
+- **2025-08-24 20:24:39**: docs: document serial protocol packet structure and error codes
