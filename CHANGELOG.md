@@ -25,3 +25,4 @@
 - **2025-08-23 11:35:38**: docs: add circuit wiring pinout and power consumption profile
 - **2025-08-23 18:38:17**: test: verify timer interrupt latency under heavy load
 - **2025-08-24 10:08:40**: test: benchmark inference execution speed on ESP32 dual-core
+- **2025-08-24 15:44:12**: fix: calibrate baseline sensor offset against reference multimeter
