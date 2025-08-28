@@ -28,3 +28,4 @@
 - **2025-08-24 15:44:12**: fix: calibrate baseline sensor offset against reference multimeter
 - **2025-08-24 20:24:39**: docs: document serial protocol packet structure and error codes
 - **2025-08-27 17:43:19**: docs: document serial protocol packet structure and error codes
+- **2025-08-28 20:50:30**: perf: tune FreeRTOS task priority to eliminate frame drops
