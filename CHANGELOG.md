@@ -29,3 +29,4 @@
 - **2025-08-24 20:24:39**: docs: document serial protocol packet structure and error codes
 - **2025-08-27 17:43:19**: docs: document serial protocol packet structure and error codes
 - **2025-08-28 20:50:30**: perf: tune FreeRTOS task priority to eliminate frame drops
+- **2025-08-29 11:55:17**: test: benchmark inference execution speed on ESP32 dual-core
