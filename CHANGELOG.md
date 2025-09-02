@@ -31,3 +31,4 @@
 - **2025-08-28 20:50:30**: perf: tune FreeRTOS task priority to eliminate frame drops
 - **2025-08-29 11:55:17**: test: benchmark inference execution speed on ESP32 dual-core
 - **2025-08-29 20:23:39**: feat: implement moving average filter for noise suppression
+- **2025-09-02 18:33:24**: refactor: optimize ADC sampling window and reduce jitter
