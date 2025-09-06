@@ -33,3 +33,4 @@
 - **2025-08-29 20:23:39**: feat: implement moving average filter for noise suppression
 - **2025-09-02 18:33:24**: refactor: optimize ADC sampling window and reduce jitter
 - **2025-09-04 14:48:40**: docs: add circuit wiring pinout and power consumption profile
+- **2025-09-06 20:26:17**: feat: add hardware failsafe watchdog timer routine
