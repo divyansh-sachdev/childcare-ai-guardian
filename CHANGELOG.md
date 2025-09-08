@@ -34,3 +34,4 @@
 - **2025-09-02 18:33:24**: refactor: optimize ADC sampling window and reduce jitter
 - **2025-09-04 14:48:40**: docs: add circuit wiring pinout and power consumption profile
 - **2025-09-06 20:26:17**: feat: add hardware failsafe watchdog timer routine
+- **2025-09-08 15:11:32**: docs: document serial protocol packet structure and error codes
