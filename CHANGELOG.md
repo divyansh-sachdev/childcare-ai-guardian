@@ -38,3 +38,4 @@
 - **2025-09-08 20:28:17**: docs: add circuit wiring pinout and power consumption profile
 - **2025-09-13 19:26:20**: fix: prevent buffer underflow during rapid sensor reads
 - **2025-09-16 18:22:23**: fix: prevent buffer underflow during rapid sensor reads
+- **2025-09-19 18:16:18**: docs: update README setup instructions and dependencies
