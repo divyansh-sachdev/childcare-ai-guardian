@@ -40,3 +40,4 @@
 - **2025-09-16 18:22:23**: fix: prevent buffer underflow during rapid sensor reads
 - **2025-09-19 18:16:18**: docs: update README setup instructions and dependencies
 - **2025-09-19 18:39:24**: refactor: modularize signal processing functions into separate header
+- **2025-09-28 18:24:31**: refactor: optimize ADC sampling window and reduce jitter
