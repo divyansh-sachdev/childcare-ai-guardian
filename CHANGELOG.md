@@ -42,3 +42,4 @@
 - **2025-09-19 18:39:24**: refactor: modularize signal processing functions into separate header
 - **2025-09-28 18:24:31**: refactor: optimize ADC sampling window and reduce jitter
 - **2025-09-29 11:37:50**: fix: resolve floating point conversion precision issue
+- **2025-09-30 15:54:32**: test: benchmark inference execution speed on ESP32 dual-core
